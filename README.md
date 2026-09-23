@@ -15,4 +15,4 @@ Resumen base del proyecto (autosuficiente):
 - El enfoque propone una estructura bidimensional de dos factores como base de un lenguaje propio.
 - La identidad del proyecto se sostiene en la marca personal **FV®** como eje conceptual.
 - Este README concentra el contexto esencial de forma independiente.
-- Registro histórico complementario: [Conversación de referencia (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043).
+- Registro histórico complementario (no normativo): [Conversación de referencia (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043), donde se documenta el contexto inicial y los primeros bocetos de diseño.
