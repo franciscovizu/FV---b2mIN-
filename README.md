@@ -17,4 +17,4 @@ Resumen base del proyecto (autosuficiente):
 - Este README concentra el contexto esencial de forma independiente.
 - Como antecedente histórico, el concepto parte de proteger la identidad FV® y evitar ambigüedad sobre el uso de la marca.
 - Los primeros bocetos plantean construir un lenguaje propio no alfanumérico basado en dos factores.
-- Registro histórico complementario (no normativo): [Conversación de referencia (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043), donde se documenta el contexto inicial y los primeros bocetos de diseño.
+- Enlace externo opcional (material complementario no normativo): [Conversación de referencia (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043).
