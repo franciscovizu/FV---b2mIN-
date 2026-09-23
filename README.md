@@ -10,7 +10,6 @@ Este proyecto nace desde la marca personal **FV®**:
 - **V**illaseñor
 - **®** como parte integral de la identidad de marca
 
-También se conserva aquí un enlace compartido con el concepto original del proyecto
-(conversación base usada como referencia de diseño):
+También se conserva aquí una referencia del concepto original del proyecto:
 
-[Referencia del concepto original (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043)
+- [Concepto original (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043), conversación base usada como referencia de diseño.
