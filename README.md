@@ -14,4 +14,5 @@ También se conserva aquí una referencia del concepto original del proyecto:
 
 - El enfoque propone una estructura bidimensional de dos factores como base de un lenguaje propio.
 - La identidad del proyecto se sostiene en la marca personal **FV®** como eje conceptual.
+- Este README concentra el contexto esencial; el enlace externo es únicamente material de apoyo.
 - [Concepto original (ChatGPT Share)](https://chatgpt.com/share/6ab32c17-b7c8-83e8-8931-4ed47ef21043) como referencia complementaria.
